@@ -1,0 +1,10 @@
+/* add css styles here (optional) */
+
+.FormWrapper {
+  transition: 0.3s;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
